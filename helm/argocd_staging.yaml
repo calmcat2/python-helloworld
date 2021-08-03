@@ -13,6 +13,6 @@ spec:
     helm:
       valueFiles:
       - values-staging.yaml
-    path: solutions/helm/nginx-deployment
-    repoURL: https://github.com/calmcat2/nd064_course_1
+    path: helm
+    repoURL: https://github.com/calmcat2/python-helloworld
     targetRevision: HEAD
